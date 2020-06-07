@@ -1,0 +1,22 @@
+/* 全体 */
+body {
+  box-sizing: border-box;
+}
+
+/* この下から記述 */
+#top_area {
+  text-align: center;
+  margin: 10px;
+}
+#aaaa {
+  color: brown;
+  margin: 10px;
+}
+#bbbb {
+  margin: 10px;
+}
+#junken {
+  text-align: center;
+}
+#button {
+}
